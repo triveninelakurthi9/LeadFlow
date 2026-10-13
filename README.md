@@ -2,19 +2,15 @@
 
 LeadFlow is a single-screen lead management app built for the PravarAI AI-Smart Fullstack Intern assessment. It helps a sales representative track leads, record conversations, and manage follow-up reminders.
 
-## Features
+## Key Features
 
-- View leads with their company, status, latest discussion, and follow-up date.
-- Search by lead name or company.
-- Filter leads by status: New, Contacted, Qualified, Proposal Sent, Won, or Lost.
-- Prioritize leads with follow-ups due today.
-- Highlight overdue follow-ups.
-- Open a lead profile and view its discussion history, newest first.
-- Add discussion notes with an optional follow-up date and time.
-- Update a lead’s status from its profile.
-- Add leads with a required name and optional company and phone number.
-- Persist leads and discussions in MongoDB.
-- Seed six sample leads when the database is empty.
+- Lead creation and management
+- Search by lead name or company
+- Filter leads by status
+- Discussion timeline for each lead
+- Schedule follow-ups and track overdue reminders
+- Update lead statuses
+- Docker Compose setup
 
 ## Technology
 
