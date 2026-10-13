@@ -57,7 +57,7 @@ To run the services separately:
 
 Clone the repository and start the application:
 
-    git clone https://github.com/<YOUR-GITHUB-USERNAME>/LeadFlow.git
+    git clone https://github.com/triveninelakurthi9/LeadFlow.git
     cd LeadFlow
     docker compose up --build
 
